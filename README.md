@@ -1,5 +1,5 @@
 # Profile
-An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  Driven, passionate, analytical and strategic professional, who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
+An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  A driven, passionate, analytical and strategic professional. Who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
 
 # Objective
 To build on existing knowledge and skills to work up the career ladder to a C level position. Using technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
@@ -8,16 +8,17 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 ## 2017 - Present - Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing day-to-day IT support for 1800 user environment
-- Valued leader and contributor to Councils ongoing integration projects
+- Valued contributor and often leader of Councils ongoing integration projects
 - Passionate evangelist driving culture change 
 - Engaged Change Agent
 
 **Achievements**
-- Guided the highly technical Office 365 Migration 3 councils into one
+- Guided the complex Hybrid exchange Office 365 Migration from 3 councils into one
 - Led the difficult 3 into 1 Active Directory Domain Consolidation
 - Stabilised our IT with a Standard Operating System Windows 10 and Office 365
 - Consolidated 3 former Council Service Desks into one consistent service
-- Implemented IT Service Management Planform
+- Implemented IT Service Management Platform
+- Implemented ITIL based best practice for Incident / Service / Change / Problem management
 - Proactively Created a Framework for Robotic Process Automation
 
 ## 2016 - 2017 - Northern Beaches Council
@@ -53,7 +54,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Tasked with completely restructuring previous IT infrastructure for more efficient daily operations and staff support 
 - Rebuilt server room for maximum output and minimal downtime 
 - Leading helpdesk support project for council Head Office and remote sites, developing, maintaining and providing training where necessary 
-- Effectively implemented 2007 Exchange project 
+- Effectively implemented 2007 Exchange 
 
 
 **Achievements**
@@ -79,7 +80,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - **PMP**	Change Management Foundation - 2016
 - **Master**	Networking & System Administration, Information Technology - 2010 
 - **Certification** 	Microsoft System Engineer - 2004
-- **CompTIA**	A+ graded - 2002 
+- **CompTIA**	A+ - 2002 
 
 # Personal education and training 
 - GeoCacher
@@ -88,11 +89,17 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Shell LiveWire Young Entrepreneur of the Year, 2001 - finalist 
 - Unity Enthusiast
 - Robotic Process Automation fanboy
+- Manager Tools Subscriber
 
 # Key skills
 - Innovation
-- Leadership 
+- Leadership
+- One on Ones
+- Feedback
+- Coaching 
 - Change Management
+- ITIL
+- ITSM
 - CD/CI (Continuous Deployment / Continuous Integration)
 - DevOps
 - Active Directory 
@@ -107,7 +114,8 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Windows 
 - .net
 - Cloud - Azure / AWS	
-- Wireshark 
+- Wireshark
+- Ivanti Service Manager 
  
 
 
