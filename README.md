@@ -78,14 +78,17 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 
 # Education and qualifications
 **PMP**	Change Management Foundation - 2016
+
 **Master**	Networking & System Administration, Information Technology – 2010 
+
 **Certification** 	Microsoft System Engineer – 2004
+
 **CompTIA**	A+ graded – 2002 
 
 # Personal education and training 
 - GeoCacher
 - PC Gamer and Virtual Reality expert 
-- PowerShell blogger: http://occasionalutility.blogspot.com.au 
+- [PowerShell blogger](http://occasionalutility.blogspot.com.au)
 - Shell LiveWire Young Entrepreneur of the Year, 2001 – finalist 
 - Unity Enthusiast
 - Robitc Process Automation fan boy
@@ -111,22 +114,3 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - DevOps
 
 
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/benhaslett/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
