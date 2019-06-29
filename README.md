@@ -1,8 +1,7 @@
 # Profile
-An Information Technology & Communications expert with over 19 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  Driven, passionate, analytical and strategic, and who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
+An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  Driven, passionate, analytical and strategic professional, who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
 
 # Objective
-
 To build on existing knowledge and skills to work up the career ladder to a C level position. Using technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
 
 # Career
@@ -88,7 +87,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - [PowerShell blogger](http://occasionalutility.blogspot.com.au)
 - Shell LiveWire Young Entrepreneur of the Year, 2001 - finalist 
 - Unity Enthusiast
-- Robitc Process Automation fan boy
+- Robotic Process Automation fanboy
 
 # Key skills
 - Innovation
