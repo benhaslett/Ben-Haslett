@@ -92,9 +92,11 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 
 # Key skills
 - Innovation
-- Active Directory 	
 - Leadership 
 - Change Management
+- CD/CI (Continuous Deployment / Continuous Integration)
+- DevOps
+- Active Directory 
 - Virtualisation - HyperV / VMWare	
 - IIS 
 - DNS 	
@@ -107,7 +109,6 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - .net
 - Cloud - Azure / AWS	
 - Wireshark 
-- Agile
-- DevOps
+
 
 
