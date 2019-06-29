@@ -64,7 +64,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - ICT Support Officer for the Melanesian Farmer First Network project 
 - Working with senior team members and third parties to successfully install solar powered HF Radio Modems in order to bring efficient internet connection to remote communities
 
-##  2002 - 2004 - AUSAID
+##  2002 - 2004 - MANLY COUNCIL
 ### Network Administrator
 - Migrating previous Exchange 5.5 and Windows NT operating systems to Active Directory and Exchange 2K
 - Deploying VoIP phone system whilst working through associated QoS issues
