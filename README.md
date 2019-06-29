@@ -77,13 +77,10 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Deploying CAT5 Ethernet to replace previously used Token ring network
 
 # Education and qualifications
-**PMP**	Change Management Foundation - 2016
-
-**Master**	Networking & System Administration, Information Technology - 2010 
-
-**Certification** 	Microsoft System Engineer - 2004
-
-**CompTIA**	A+ graded - 2002 
+- **PMP**	Change Management Foundation - 2016
+- **Master**	Networking & System Administration, Information Technology - 2010 
+- **Certification** 	Microsoft System Engineer - 2004
+- **CompTIA**	A+ graded - 2002 
 
 # Personal education and training 
 - GeoCacher
