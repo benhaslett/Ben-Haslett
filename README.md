@@ -21,7 +21,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Implemented IT Service Management Planform
 - Proactively Created a Framework for Robotic Process Automation
 
-## 2016 – 2017 - Northern Beaches Council
+## 2016 - 2017 - Northern Beaches Council
 ### Technology Infrastructure Manager
 - Successfully managing day-to-day IT operations across councils Manly Office and associated remote sites
 - Enhanced Capacity of Existing Council Services
@@ -34,7 +34,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Strategically expanded Public Wi-Fi network 
 - Driving a change in organisational culture by modelling behaviour that reflects councils core values
 
-## 2010 – 2016 - MANLY COUNCIL
+## 2010 - 2016 - MANLY COUNCIL
 ### Technology Infrastructure Manager
 - Successfully managing day-to-day IT operations across council Head Office and remote sites 
 - Strategically deployed Azure Machine Learning to company-wide CCTV cameras in order to provide cloud-based predictive analysis to monitor parking flow within Manly
@@ -49,7 +49,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Working closely with Microsoft Australia to revolutionise council car-parking monitoring, automating camera footage download to cloud-based [Microsoft Azure Machine Learning system](https://www.governmentnews.com.au/sydney-council-uses-machine-learning-to-crack-down-on-parking-pests/)
 
 
-##  2008 – 2010 - MANLY COUNCIL
+##  2008 - 2010 - MANLY COUNCIL
 ### Principal Officer - IT Infrastructure 
 - Tasked with completely restructuring previous IT infrastructure for more efficient daily operations and staff support 
 - Rebuilt server room for maximum output and minimal downtime 
@@ -60,18 +60,18 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 **Achievements**
 - Replaced IT infrastructure on-time, and to budget, with zero staff downtime 
 
-##  2004 – 2005 - AUSAID
+##  2004 - 2005 - AUSAID
 ### Network Administrator
 - ICT Support Officer for the Melanesian Farmer First Network project 
 - Working with senior team members and third parties to successfully install solar powered HF Radio Modems in order to bring efficient internet connection to remote communities
 
-##  2002 – 2004 - AUSAID
+##  2002 - 2004 - AUSAID
 ### Network Administrator
 - Migrating previous Exchange 5.5 and Windows NT operating systems to Active Directory and Exchange 2K
 - Deploying VoIP phone system whilst working through associated QoS issues
 
 
-##  1999 – 2002 - MANLY LIBRARY
+##  1999 - 2002 - MANLY LIBRARY
 ### LAN Support Supervisor 
 - Upgrading Library Management System from Book+ mainframe/terminal system to windows client server based system
 - Deploying CAT5 Ethernet to replace previously used Token ring network
@@ -79,17 +79,17 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 # Education and qualifications
 **PMP**	Change Management Foundation - 2016
 
-**Master**	Networking & System Administration, Information Technology – 2010 
+**Master**	Networking & System Administration, Information Technology - 2010 
 
-**Certification** 	Microsoft System Engineer – 2004
+**Certification** 	Microsoft System Engineer - 2004
 
-**CompTIA**	A+ graded – 2002 
+**CompTIA**	A+ graded - 2002 
 
 # Personal education and training 
 - GeoCacher
 - PC Gamer and Virtual Reality expert 
 - [PowerShell blogger](http://occasionalutility.blogspot.com.au)
-- Shell LiveWire Young Entrepreneur of the Year, 2001 – finalist 
+- Shell LiveWire Young Entrepreneur of the Year, 2001 - finalist 
 - Unity Enthusiast
 - Robitc Process Automation fan boy
 
@@ -108,7 +108,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - TCP/IP Routing/NAT/Firewalls 
 - Windows 
 - .net
-- Cloud – Azure / AWS	
+- Cloud - Azure / AWS	
 - Wireshark 
 - Agile
 - DevOps
