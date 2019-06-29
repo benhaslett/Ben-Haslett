@@ -1,19 +1,18 @@
-# Ben Haslett
-
-## Profile
+# Profile
 An Information Technology & Communications expert with over 19 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  Driven, passionate, analytical and strategic, and who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
 
-## Objective
+# Objective
 
 To build on existing knowledge and skills to work up the career ladder to a C level position. Using technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
 
-## Career
-### 2017 – Present - Northern Beaches Council
+# Career
+## 2017 – Present - Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing day-to-day IT support for 1800 user environment
 - Valued leader and contributor to Councils ongoing integration projects
 - Passionate evangelist driving culture change 
 - Engaged Change Agent
+
 **Achievements**
 - Guided the highly technical Office 365 Migration 3 councils into one
 - Led the difficult 3 into 1 Active Directory Domain Consolidation
