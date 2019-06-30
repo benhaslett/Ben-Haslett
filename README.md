@@ -7,10 +7,11 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 # Career
 ## 2017 - Present - Northern Beaches Council
 ### Manager Service Delivery
-- Successfully managing day-to-day IT support for 1800 user environment
+- Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
 - Valued contributor and often leader of Councils ongoing integration projects
 - Passionate evangelist driving culture change 
 - Engaged Change Agent
+- Accountable for budget of $1.8m 
 
 **Achievements**
 - Guided the complex Hybrid exchange Office 365 Migration from 3 councils into one
@@ -23,10 +24,10 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 
 ## 2016 - 2017 - Northern Beaches Council
 ### Technology Infrastructure Manager
-- Successfully managing day-to-day IT operations across councils Manly Office and associated remote sites
+- Successfully managing a team of 4 through day-to-day IT operations across councils Manly Office and associated remote sites
 - Enhanced Capacity of Existing Council Services
 - Engaged Change Agent
-
+- Accountable for budget of $900k 
 
 **Achievements**
 - Successfully leveraged PowerShell automation to keep email contacts in sync across three domains
@@ -36,11 +37,12 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 
 ## 2010 - 2016 - MANLY COUNCIL
 ### Technology Infrastructure Manager
-- Successfully managing day-to-day IT operations across council Head Office and remote sites 
+- Successfully managing a team of 4 through day-to-day IT operations across council Head Office and remote sites 
 - Strategically deployed Azure Machine Learning to company-wide CCTV cameras in order to provide cloud-based predictive analysis to monitor parking flow within Manly
 - Instrumental in the installation project management of Optical Fiber Network to efficiently connect the council’s remote sites reducing telecommunications costs 
 - Expertly leveraging PowerShell to integrate council’s web applications, car-parking remote systems and ERP system 
 - Expertly Implementing and managing private cloud infrastructure 
+- Accountable for budget of $400k 
 
 
 **Achievements**
