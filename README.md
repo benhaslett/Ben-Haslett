@@ -2,7 +2,7 @@
 An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push to boundaries and look for new solutions to existing problems.  A driven, passionate, analytical and strategic professional. Who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
 
 # Objective
-To build on existing knowledge and skills to work up the career ladder to a C level position. Using technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
+ To use technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
 
 # Career
 ## 2017 - Present - Northern Beaches Council
@@ -49,7 +49,7 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 - Working closely with Microsoft Australia to revolutionise council car-parking monitoring, automating camera footage download to cloud-based [Microsoft Azure Machine Learning system](https://www.governmentnews.com.au/sydney-council-uses-machine-learning-to-crack-down-on-parking-pests/)
 
 
-##  2008 - 2010 - MANLY COUNCIL
+##  2006 - 2010 - MANLY COUNCIL
 ### Principal Officer - IT Infrastructure 
 - Tasked with completely restructuring previous IT infrastructure for more efficient daily operations and staff support 
 - Rebuilt server room for maximum output and minimal downtime 
@@ -93,10 +93,11 @@ To build on existing knowledge and skills to work up the career ladder to a C le
 
 # Key skills
 - Innovation
+- Digital Strategy
 - Leadership
 - One on Ones
 - Feedback
-- Coaching 
+- Coaching
 - Change Management
 - ITIL
 - ITSM
