@@ -1,5 +1,5 @@
 # Profile
-An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience.  An entrepreneurial spirit, with a desire to push boundaries and look for new solutions to existing problems.  A driven, passionate, analytical and strategic professional. Who enjoys being part of, as well as leading, a successful and productive team.  Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
+An Information Technology & Communications expert with over 20 years’ knowledge and practical industry experience. An entrepreneurial spirit, with a desire to push boundaries and look for new solutions to existing problems. A passionate, analytical and strategic professional. Enjoys being part of, as well as leading, a successful and productive team. Works well to deadlines and thrives under pressure, able to perform effectively within any task or project. 
 
 # Objective
  To use technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
