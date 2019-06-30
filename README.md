@@ -5,7 +5,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
  To use technology and innovation to revolutionise how people interact with Government. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
 
 # Career
-## 2017 - Present - Northern Beaches Council
+## 2017 - Present: Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
 - Valued contributor and often leader of Councils ongoing integration projects
@@ -18,11 +18,12 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Led the difficult 3 into 1 Active Directory Domain Consolidation
 - Stabilised our IT with a Standard Operating System Windows 10 and Office 365
 - Consolidated 3 former Council Service Desks into one consistent service
-- Implemented IT Service Management Platform
+- Implemented Ivanti IT Service Management Platform
 - Implemented ITIL based best practice for Incident / Service / Change / Problem management
 - Proactively Created a Framework for Robotic Process Automation
+- Created a compelling case to adopt Microsoft Teams as a Unified Communications platform
 
-## 2016 - 2017 - Northern Beaches Council
+## 2016 - 2017: Northern Beaches Council
 ### Technology Infrastructure Manager
 - Successfully managing a team of 4 through day-to-day IT operations across councils Manly Office and associated remote sites
 - Enhanced Capacity of Existing Council Services
@@ -35,7 +36,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Strategically expanded Public Wi-Fi network 
 - Driving a change in organisational culture by modelling behaviour that reflects councils core values
 
-## 2010 - 2016 - MANLY COUNCIL
+## 2010 - 2016 - Manly Council
 ### Technology Infrastructure Manager
 - Successfully managing a team of 4 through day-to-day IT operations across council Head Office and remote sites 
 - Strategically deployed Azure Machine Learning to company-wide CCTV cameras in order to provide cloud-based predictive analysis to monitor parking flow within Manly
@@ -51,7 +52,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Working closely with Microsoft Australia to revolutionise council car-parking monitoring, automating camera footage download to cloud-based [Microsoft Azure Machine Learning system](https://www.governmentnews.com.au/sydney-council-uses-machine-learning-to-crack-down-on-parking-pests/)
 
 
-##  2006 - 2010 - MANLY COUNCIL
+##  2006 - 2010 - Manly Council
 ### Principal Officer - IT Infrastructure 
 - Tasked with completely restructuring previous IT infrastructure for more efficient daily operations and staff support 
 - Rebuilt server room for maximum output and minimal downtime 
@@ -67,13 +68,13 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - ICT Support Officer for the Melanesian Farmer First Network project 
 - Working with senior team members and third parties to successfully install solar powered HF Radio Modems in order to bring efficient internet connection to remote communities
 
-##  2002 - 2004 - MANLY COUNCIL
+##  2002 - 2004 - Manly Council
 ### Network Administrator
 - Migrating previous Exchange 5.5 and Windows NT operating systems to Active Directory and Exchange 2K
 - Deploying VoIP phone system whilst working through associated QoS issues
 
 
-##  1999 - 2002 - MANLY LIBRARY
+##  1999 - 2002 - Manly Library
 ### LAN Support Supervisor 
 - Upgrading Library Management System from Book+ mainframe/terminal system to windows client server based system
 - Deploying CAT5 Ethernet to replace previously used Token ring network
