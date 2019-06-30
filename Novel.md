@@ -1,7 +1,8 @@
 ---
+theme: jekyll-theme-minimal
 layout: page
 title: Novel
-permalink: /Novel/
+permalink: /novel/
 ---
 
 ## Novel
