@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal                  
 layout: page
 title: Novel
 permalink: /novel/
