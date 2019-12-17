@@ -14,10 +14,10 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Accountable for budget of $1.8m 
 
 **Achievements**
-- Guided the complex Hybrid exchange Office 365 Migration from 3 councils into one
-- Led the difficult 3 into 1 Active Directory Domain Consolidation
-- Stabilised our IT with a Standard Operating System Windows 10 and Office 365
-- Implemented Ivanti IT Service Management Platform, consolidated 3 legacy Service Desks into one consistent service
+- Guided the complex Hybrid exchange Migration from 3 councils into one
+- Led the difficult 3 into 1 Domain Consolidation
+- Stabilised our IT with a Standard Operating Environment
+- Implemented IT Service Management Platform, consolidated 3 legacy Service Desks into one consistent service
 - Implemented ITIL based best practice for Incident / Service / Change / Problem management
 - Proactively Created a Framework for Robotic Process Automation
 - Created a compelling case to adopt Microsoft Teams as a Unified Communications platform
