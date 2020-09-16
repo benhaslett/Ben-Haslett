@@ -17,7 +17,8 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Created tools and cultural conditions to transform Annual ITC Business plan into an Agile Project Portfolio review quarterly
 - Implemented ITIL Change Management Process
 - Deployed IT Service Management solution
-- Successful transition to remote delivery of all team services during COVID-19 Lock Downs 
+- Successful transition to remote delivery of all team services during COVID-19 Lock Downs
+- Project Manager for $5m Trades Hub Construction project 
 
 ## 2017 - 2019: Northern Beaches Council
 ### Manager Service Delivery
