@@ -15,3 +15,4 @@ But you can hack the system...
 
 ## Source of the Mission
 https://www.netflix.com/au/title/81254224
+https://www.fastcompany.com/90549135/we-can-have-social-media-as-we-know-it-or-we-can-have-democracy
