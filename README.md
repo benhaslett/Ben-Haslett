@@ -5,7 +5,14 @@ An Information Technology & Communications expert with over 20 years’ knowledg
  To use technology and innovation to make work easy. To innovate, inspire and continuously seek ways to work within this ever-changing landscape.
 
 # Career
-## 2017 - Present: Northern Beaches Council
+## 2020 - Present: Wodonga Institute of TAFE
+### Team Lead Business Solutions
+
+
+**Achievements**
+
+
+## 2017 - 2019: Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
 - Valued contributor and often leader of Councils ongoing integration projects
