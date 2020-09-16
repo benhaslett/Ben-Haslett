@@ -8,6 +8,7 @@ But you can hack the system...
 
 * Turn off Notifications
 * Don't accept recomendations that don't come from people
+* Recognise if you have a strong emotional reaction to something, it was probably designed to do that to you
 * Talk to the people that you don't agree with
 
 ## History of the Mission
