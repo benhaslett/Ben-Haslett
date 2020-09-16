@@ -7,10 +7,17 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 # Career
 ## 2020 - Present: Wodonga Institute of TAFE
 ### Team Lead Business Solutions
-
+- Reliably supervising a multidisciplinary team
+- Dynamically leading 2 developers and 2 Project Managers
+- Accountable to CIO for Management of whole of institute Programs and projects 
 
 **Achievements**
-
+- Successfully implemented IT PMO engagement framework. Making it easier for the Institute to execute projects
+- Valued contributor to the Cyber Resilience Strategy, building compliance with ASD Essential 8 and VPDFS
+- Created tools and cultural conditions to transform Annual ITC Business plan into an Agile Project Portfolio review quarterly
+- Implemented ITIL Change Management Process
+- Deployed IT Service Management solution
+- Successful transition to remote delivery of all team services during COVID-19 Lock Downs 
 
 ## 2017 - 2019: Northern Beaches Council
 ### Manager Service Delivery
