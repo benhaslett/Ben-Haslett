@@ -1,4 +1,4 @@
-# You have the brain of a Monkey.
+# You have the Brain of a Monkey.
 
 Thousands of engineers are working day and night with the best technology ever created to make you start at a screen.
 
