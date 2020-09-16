@@ -4,6 +4,7 @@ Thousands of engineers are working day and night with the best technology ever c
 
 It's not a fair fight.
 
+## The Mission
 But you can hack the system...
 
 * Turn off Notifications
