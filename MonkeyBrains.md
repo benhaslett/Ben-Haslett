@@ -8,10 +8,10 @@ But you can hack the system...
 
 * Turn off Notifications
 * Don't accept recomendations that don't come from people
-* Talk to people that you don't agree with
+* Talk to the people that you don't agree with
 
-History of the Mission
-![Meme 1](/MonkeyBrains.md)
+## History of the Mission
+![Meme 1](/meme1.jpg)
 
-Source of the Mission
+## Source of the Mission
 https://www.netflix.com/au/title/81254224
