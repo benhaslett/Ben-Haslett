@@ -14,6 +14,7 @@ But you can hack the system...
 
 ## History of the Mission
 ![Meme 1](/meme1.jpg)
+![Meme 2](/meme2.jpg)
 
 ## Source of the Mission
 [https://www.netflix.com/au/title/81254224](https://www.netflix.com/au/title/81254224)
