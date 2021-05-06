@@ -12,30 +12,32 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Accountable to CIO for Management of whole of institute Programs and projects 
 
 **Achievements**
-- Successfully implemented IT PMO engagement framework. Making it easier for the Institute to execute projects
+- Successfully implemented IT PMO engagement framework in Office 365. Making it easier for the Institute to execute projects during COVID
 - Valued contributor to the Cyber Resilience Strategy, building compliance with ASD Essential 8 and VPDFS
 - Created tools and cultural conditions to transform Annual ITC Business plan into an Agile Project Portfolio review quarterly
-- Implemented ITIL Change Management Process
+- Implemented ITIL Process Incident, Change and Problem Management 
 - Deployed IT Service Management solution
-- Successful transition to remote delivery of all team services during COVID-19 Lock Downs
-- Project Manager for $5m Trades Hub Construction project 
+- Adopted O365 to make a successful transition to remote delivery of all team services during COVID-19 Lock Downs
+- Leveraged Conditional Access and Azure AD Application Proxy to enable Multifactor Authentication 
 
 ## 2017 - 2019: Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
-- Valued contributor and often leader of Councils ongoing integration projects
-- Passionate evangelist driving culture change 
+- Valued leader within Councils integration projects
+- Passionate evangelist driving culture change, DevOps and cloud adoption
 - Engaged Change Agent
-- Accountable for budget of $1.8m 
 
 **Achievements**
-- Guided the complex Hybrid exchange Migration from 3 councils into one
+- Guided the complex Hybrid exchange Migration from 3 councils into one, leveraging azure IaaS for exchange server migration
 - Led the difficult 3 into 1 Domain Consolidation
-- Stabilised our IT with a Standard Operating Environment
+- Stabilised our IT with a Windows 10 Standard Operating Environment
 - Implemented IT Service Management Platform, consolidated 3 legacy Service Desks into one consistent service
 - Implemented ITIL based best practice for Incident / Service / Change / Problem management
 - Proactively Created a Framework for Robotic Process Automation
 - Created a compelling case to adopt Microsoft Teams as a Unified Communications platform
+- Leveraged Azure AD SSO and Passthrough Authentication to solve numerous authentication problems
+- Create a web scale infrstructure for www.northernbeaches.nsw.gov.au
+
 
 ## 2016 - 2017: Northern Beaches Council
 ### Technology Infrastructure Manager
@@ -92,6 +94,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 ### LAN Support Supervisor 
 - Upgrading Library Management System from Book+ mainframe/terminal system to windows client server based system
 - Deploying CAT5 Ethernet to replace previously used Token ring network
+- Deployment of Y2K patches without operational inturuptions
 
 # Education and qualifications
 - **PMP**	Change Management Foundation - 2016
