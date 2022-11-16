@@ -8,14 +8,15 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 ## 2020 - Present: Wodonga Institute of TAFE
 ### Team Lead Business Solutions
 - Reliably supervising a multidisciplinary team
-- Dynamically leading 2 developers and 2 Project Managers
+- Dynamically leading developers, Project Managers and business analysts
 - Accountable to CIO for Management of whole of institute Programs and projects 
 
 **Achievements**
+- Proactively drove the delivery of the Digital Transformation and Innovation Strategy
 - Successfully implemented IT PMO engagement framework in Office 365. Making it easier for the Institute to execute projects during COVID
-- Valued contributor to the Cyber Resilience Strategy, building compliance with ASD Essential 8 and VPDFS
-- Created tools and cultural conditions to transform Annual ITC Business plan into an Agile Project Portfolio review quarterly
-- Implemented ITIL Process Incident, Change and Problem Management 
+- Valued contributor to the Cyber Resilience Strategy, building compliance with ASD Essential 8, ACSC ISM and ISO27001
+- Created tools and cultural conditions to transform Annual ITC Business plan into an Agile Product Portfolio
+- Implemented ITIL Incident, Change and Problem Management processes
 - Deployed IT Service Management solution
 - Adopted O365 to make a successful transition to remote delivery of all team services during COVID-19 Lock Downs
 - Leveraged Conditional Access and Azure AD Application Proxy to enable Multifactor Authentication 
@@ -23,11 +24,12 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 ## 2017 - 2019: Northern Beaches Council
 ### Manager Service Delivery
 - Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
-- Valued leader within Councils integration projects
-- Passionate evangelist driving culture change, DevOps and cloud adoption
+- Valued leader within Councils integration and merger projects
+- Passionate evangelist driving culture change, agile, DevOps and cloud adoption
 - Engaged Change Agent
 
 **Achievements**
+- Adopting relevant metrics to measure our performance 
 - Guided the complex Hybrid exchange Migration from 3 councils into one, leveraging azure IaaS for exchange server migration
 - Led the difficult 3 into 1 Domain Consolidation
 - Stabilised our IT with a Windows 10 Standard Operating Environment
@@ -36,7 +38,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Proactively Created a Framework for Robotic Process Automation
 - Created a compelling case to adopt Microsoft Teams as a Unified Communications platform
 - Leveraged Azure AD SSO and Passthrough Authentication to solve numerous authentication problems
-- Create a web scale infrstructure for www.northernbeaches.nsw.gov.au
+- Created a web scale infrstructure for www.northernbeaches.nsw.gov.au
 
 
 ## 2016 - 2017: Northern Beaches Council
@@ -44,11 +46,11 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Successfully managing a team of 4 through day-to-day IT operations across councils Manly Office and associated remote sites
 - Enhanced Capacity of Existing Council Services
 - Engaged Change Agent
-- Accountable for budget of $900k 
 
 **Achievements**
+- Maintained focus on our customers and continued to deliver value in an agile way during the merger
 - Successfully leveraged PowerShell automation to keep email contacts in sync across three domains
-- Empowered my people by helping them to automate O365 migration processes
+- Empowered people by helping them to automate O365 migration processes
 - Strategically expanded Public Wi-Fi network 
 - Driving a change in organisational culture by modelling behaviour that reflects councils core values
 
@@ -59,10 +61,10 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Instrumental in the installation project management of Optical Fiber Network to efficiently connect the council’s remote sites reducing telecommunications costs 
 - Expertly leveraging PowerShell to integrate council’s web applications, car-parking remote systems and ERP system 
 - Expertly Implementing and managing private cloud infrastructure 
-- Accountable for budget of $400k 
 
 
 **Achievements**
+- Built agile capability by focusing on the values and putting the customer at the center of everything we do
 - Won team buy-in for system automation with custom Powershell module for Manly Network
 - Increased customer satisfaction survey results year on year for 3 years
 - Working closely with Microsoft Australia to revolutionise council car-parking monitoring, automating camera footage download to cloud-based [Microsoft Azure Machine Learning system](https://www.governmentnews.com.au/sydney-council-uses-machine-learning-to-crack-down-on-parking-pests/)
