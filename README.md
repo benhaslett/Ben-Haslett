@@ -22,7 +22,7 @@ An Information Technology & Communications expert with over 20 years’ knowledg
 - Leveraged Conditional Access and Azure AD Application Proxy to enable Multifactor Authentication 
 
 ## 2017 - 2019: Northern Beaches Council
-### Manager Service Delivery
+### Service Delivery Manager
 - Successfully managing a team of 8 through day-to-day IT support for 1800 user environment
 - Valued leader within Councils integration and merger projects
 - Passionate evangelist driving culture change, agile, DevOps and cloud adoption
